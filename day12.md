@@ -1,3 +1,5 @@
+# Lecture 12 (Fri, Feb 2, 2018)
+
 `stdio` library:
 fopen
 `buffread()` reads 8 writes.
